@@ -32,3 +32,5 @@ ca/*
 data
 
 sign
+
+.DS_Store
