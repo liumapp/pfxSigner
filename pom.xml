@@ -10,6 +10,7 @@
 
   <modules>
     <module>ca</module>
+    <module>signHelper</module>
   </modules>
 
   <groupId>com.liumapp.pfxSigner</groupId>

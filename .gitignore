@@ -34,3 +34,9 @@ data
 sign
 
 .DS_Store
+
+signHelper
+
+jtechlog-signpdf
+
+pdfbox-signer
